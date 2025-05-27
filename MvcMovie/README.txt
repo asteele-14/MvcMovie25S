@@ -98,4 +98,12 @@ Testing done...did a little extra to find out how this app works..
 First, do this...
 Then complete the application...
 
+1002
+Working through the rest of the application
+Added a search feature
+Added Rating:
+20250527140221_AndrewsRating
+<3 I luv this! :)
+But there's something missing...
+:(
 
