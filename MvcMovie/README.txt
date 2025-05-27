@@ -68,5 +68,34 @@ Innspect what has happened....
 Now...what should i do? ;)
 1158
 Created a GitHub repo...and now can use that instead of deleting the localhost code :)
-		
+
+2025-05-27
+0913
+Review of the application...see what's happening...TEST!!!!
+Clean application
+========== Clean completed at 9:14 AM and took 01.646 seconds ==========
+Rebuild the app:
+Restored C:\Users\Andrew Steele\source\repos\MvcMovie\MvcMovie\MvcMovie.csproj (in 1.24 sec).
+1>MvcMovie -> C:\Users\Andrew Steele\source\repos\MvcMovie\MvcMovie\bin\Debug\net8.0\MvcMovie.dll
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
+========== Rebuild completed at 9:15 AM and took 12.729 seconds ==========
+
+ok...that's done :)
+Now test as a user!
+
+0917
+Damn! Didn't note the URL at the beginning:
+https://localhost:44387/
+Now test...
+List the tests completed....
+Confirmed URLs work ok
+Checked the DB and confirmed CRUD
+Hmmmm...i changed an entry in the DB...closed the app...
+hmmmm...let's see if it is still there...
+0927
+Testing done...did a little extra to find out how this app works..
+
+First, do this...
+Then complete the application...
+
 
